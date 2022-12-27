@@ -6,8 +6,8 @@
     </head>
 <body>
     
-    <nav class="menu">
-     <ul>
+    < nav  class = "main" >
+     < ul >
       <li><a href="http://localhost/market/radi.php">Home</a></li>    
       <li><a href="http://localhost/market/gallery.php">Gallery</a></li> 
       <li><a href="http://localhost/market/help.php">Help</a></li>
